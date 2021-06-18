@@ -1,1 +1,1 @@
-# A Simple Example of Todos app with Modal and Backdpop Components
+# A Simple Example of Meetups app using states, routing and more
